@@ -1,2 +1,2 @@
-# SQL
-A mini project on SQL
+# Projects
+Mini projects
